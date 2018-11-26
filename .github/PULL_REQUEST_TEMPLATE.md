@@ -1,7 +1,5 @@
 ## Details
-**Segment Name:** #xxx
-
-**Completed?:** (Yes|No)
+**Segment Name:** ###Segment 1 or 2
 
 ## Checklist (won't be reviewed if they are not all ticked)
 - [ ] I have read the entire `README.md` and understood it.

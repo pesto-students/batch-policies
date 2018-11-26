@@ -1,5 +1,5 @@
-# The Learning Phase
----
+# The Pesto Bootcamp
+
 ## Introduction
 
 The Learning Phase is the first phase of the Pesto Program. It is intended to give you a theoretical understanding of technologies that we are going to work with for the next 12 weeks. 
@@ -13,7 +13,7 @@ The Learning Phase is the first phase of the Pesto Program. It is intended to gi
 
 | Time | Name | Description |
 |:-------:|----------|--------|
-| **9:00 - 9:45 PM (30 mins)** | Soft Skills | Soft Skills segment taken by Andrew/Ayush |
+| **9:00 - 9:30 PM (30 mins)** | Soft Skills | Soft Skills segment taken by Andrew/Ayush |
 | **9:30 - 11:00 PM ( 1.5 hours)** | Beginning Note and Lecture 1 | This time will be taken to teach the materials for the day. It'll be mostly non-interactive. |
 | **11:00 - 12:00 PM ( 1 hour )** | Exercise 1 | The students will solve problems, and any other relevant exercises that may reinforce their conceptual understanding of the presented in the previous hour. |
 | **12 - 12:45 PM ( 45 mins )** | Office Hours | For the doubts that arise during the exercises. Solutions of exercises that were posed in the previous hour. |
@@ -60,18 +60,20 @@ One medium post reflecting your journey in the Pesto Career Accelerator Program.
 What more can you do?
 
 ### Sample Portfolios
-http://dejan.works/
-https://jacekjeznach.com/
-http://mattfarley.ca/
-http://ejosue.com/
-https://caferati.me/
+http://dejan.works/  
+https://jacekjeznach.com/  
+http://mattfarley.ca/  
+http://ejosue.com/  
+https://caferati.me/  
 
 - Week 1
+    - Design 4 versions of your dream portfolio. The designs can be made using pencil-and-paper or mockup softwares like Balsamiq.
+    - The designs have to be substantially different. Minor adjustments to exisitng design won't be counted.
+    - The designs should reflect who you are. ;)
+    - See sample portfolios links above for inspiration.
 - Week 2
 - Week 3
 - Week 4
-
----
 
 # Policies and Rules
 
@@ -122,23 +124,23 @@ Bob: No way. Windows is so easy to use that even my mom can use it.
 
 **If you see racism, sexism, etc. outside of Pesto, please don’t bring it in. For example, please don’t start a discussion about the latest offensive comment from Random Tech Person Y.**
 
---- 
+
 ## Additional Rules
 
 - Attendance Airtable Form  Link - [Form Link](https://airtable.com/shrSaX8IabbSrddIJ)
 - **3 days of permitted leave only.**
 - You should collaborate and discuss ideas with your peers. However, make sure that you don't waster their time by asking multiple questions.
 
----
+
 
 # Batch Calendar
 
 ## Month 1
 |Checkbox| Date | Event |
 |:-------:|:----------:|--------|
-|[x]|**Monday, November 25, 2018**| Orientation Day |
+|[x]|**Sunday, November 25, 2018**| Orientation Day |
 |[ ]|**Monday, November 26, 2018**| Beginning of Program and Phase 1 |
-|[ ]|**Monday, November 26, 2018 + 1 week**|1st Weekly Project Presentation (before 9pm that day via Loom)|
+|[ ]|**Monday, December 3, 2018**|1st Weekly Project Presentation (before 9pm that day via Loom)|
 |[ ]|**Monday, December 10, 2018**|2nd Weekly Project Presentation (before 9pm that day via Loom)|
 |[ ]|**Monday, December 10, 2018**| Major Assessment |
 |[ ]|**Monday, December 17, 2018**|3rd Weekly Project Presentation (before 9pm that day via Loom)|
@@ -146,13 +148,11 @@ Bob: No way. Windows is so easy to use that even my mom can use it.
 |[ ]|**Monday, December 24, 2018**| End of Phase 1 |
 
 ## Month 2
-| Date | Event |
-|:-------:|----------|--------|
+
 *TBA*
 
 ## Month 3
-| Date | Event |
-|:-------:|----------|--------|
+
 *TBA*
 
 ## Holidays 
