@@ -6,3 +6,9 @@
 - [ ] I agree to abide by the Rules and Regulations posited in the above-mentioned file.
 - [ ] Non-compliance of any rule can lead to my indefinite suspension from the Pesto Programme.
 - [ ] I have signed the PR with my name. (Write "I Agree" in the description of the PR)
+- [ ] dasd
+- [ ] das
+- [ ] das
+- [ ] das
+- [ ] das
+- [ ] d
