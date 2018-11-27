@@ -1,5 +1,9 @@
 # The Pesto Bootcamp
 
+## Checklist
+
+[Day Wise Checklist](checklist.md)
+
 ## Introduction
 
 The Learning Phase is the first phase of the Pesto Program. It is intended to give you a theoretical understanding of technologies that we are going to work with for the next 12 weeks. 
