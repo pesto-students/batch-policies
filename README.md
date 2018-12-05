@@ -63,6 +63,9 @@ Peer Reviews
 One medium post reflecting your journey in the Pesto Career Accelerator Program. (Optional but highly recommended)
 What more can you do?
 
+## Open Mic (on Monday)
+- You have to speak about somebody else's idea and how they can improve it. (At least 2 people)
+
 ### Sample Portfolios
 http://dejan.works/  
 https://jacekjeznach.com/  
@@ -76,6 +79,8 @@ https://caferati.me/
     - The designs should reflect who you are. ;)
     - See sample portfolios links above for inspiration.
 - Week 2
+   - Basic boilerplate and HTML/CSS structure of the portfolio.
+   - Deployment to a static website host. (Netlify/GitHub Pages)
 - Week 3
 - Week 4
 
