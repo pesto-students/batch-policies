@@ -165,4 +165,6 @@ Bob: No way. Windows is so easy to use that even my mom can use it.
 *TBA*
 
 ## Holidays 
-*TBA*
+
+**Tuesday, December 25, 2018** - Christmas  
+**Monday, December 31, 2018** - New Year's Eve 
