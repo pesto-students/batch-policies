@@ -136,7 +136,6 @@ Bob: No way. Windows is so easy to use that even my mom can use it.
 
 ## Additional Rules
 
-- Attendance Airtable Form  Link - [Form Link](https://airtable.com/shrSaX8IabbSrddIJ)
 - **3 days of permitted leave only.**
 - You should collaborate and discuss ideas with your peers. However, make sure that you don't waster their time by asking multiple questions.
 
@@ -145,16 +144,8 @@ Bob: No way. Windows is so easy to use that even my mom can use it.
 # Batch Calendar
 
 ## Month 1
-|Checkbox| Date | Event |
-|:-------:|:----------:|--------|
-|[x]|**Sunday, November 25, 2018**| Orientation Day |
-|[ ]|**Monday, November 26, 2018**| Beginning of Program and Phase 1 |
-|[ ]|**Monday, December 3, 2018**|1st Weekly Project Presentation (before 9pm that day via Loom)|
-|[ ]|**Monday, December 10, 2018**|2nd Weekly Project Presentation (before 9pm that day via Loom)|
-|[ ]|**Monday, December 10, 2018**| Major Assessment |
-|[ ]|**Monday, December 17, 2018**|3rd Weekly Project Presentation (before 9pm that day via Loom)|
-|[ ]|**Monday, December 24, 2018**| 4th Weekly Project Presentation (before 9pm that day via Loom) |
-|[ ]|**Monday, December 24, 2018**| End of Phase 1 |
+
+*TBA*
 
 ## Month 2
 
